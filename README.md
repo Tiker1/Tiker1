@@ -1,18 +1,33 @@
 
-<hr/>
-<h3 align="center">» Hello im Tiker «</h3>
-<hr/>
-<h3 align="center">× Tools and languages ×</h3>
-<p align="center">
-<img draggable="false" alt="JAVA" width="50px" title="Java" src="https://imgur.com/R27SCSQ.png" />
-<img draggable="false" alt="JavaScript" width="50px" title="JavaScript" src="https://imgur.com/msn7dGi.png" />
-<img draggable="false" alt="HTML" width="50px" title="HTML" src="https://imgur.com/s3NIj4N.png" />
-<img draggable="false" alt="CSS" width="50px" title="CSS" src="https://imgur.com/Mhf3x54.png" />
-<img draggable="false" alt="PHP" width="50px" title="PHP" src="https://imgur.com/FSH8AiL.png" />
-<img draggable="false" alt="mongoDB" width="50px" title="MongoDB" src="https://imgur.com/rtWDlQi.png" />
-<img draggable="false" alt="MYSQL" width="50px" title="MYSQL" src="https://imgur.com/AEr81sg.png" />
-</p>
-<hr/>
-<h3 align="center">× Statistics ×</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kicpeross&layout=compact" alt="kicpeross" /></p>
-<hr/>
+### Hi, I'm Oliwier! 👋
+![](https://komarev.com/ghpvc/?username=sveenxx&label=PROFILE+VIEWS)
+#
+
+<img align="right" alt="GIF" width="420px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
+
+**📫 Contact:**
+
+- Discord: Tiker#2536
+
+**⚒ Languages and Tools:**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript) 
+![HTML5](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5) 
+![CSS3](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat&logo=sass)
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=TailwindCSS)
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=Node.js)
+![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) 
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-Github-black?style=flat&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![SQL](https://img.shields.io/badge/-sql-black?style=flat&logo=mysql)
+
+#
+**📊 Stats:**
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sveenxx&show_icons=true&theme=tokyonight)](https://github.com/sveenxx/github-readme-stats)
