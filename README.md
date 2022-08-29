@@ -1,6 +1,5 @@
 
 ### Hi, I'm Oliwier! 👋
-![](https://komarev.com/ghpvc/?username=sveenxx&label=PROFILE+VIEWS)
 #
 
 <img align="right" alt="GIF" width="420px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
@@ -28,6 +27,3 @@
 ![SQL](https://img.shields.io/badge/-sql-black?style=flat&logo=mysql)
 
 #
-**📊 Stats:**
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sveenxx&show_icons=true&theme=tokyonight)](https://github.com/sveenxx/github-readme-stats)
